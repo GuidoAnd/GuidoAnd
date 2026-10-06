@@ -132,7 +132,7 @@ Infrastructure provisioning experiments focused on reproducibility and automatio
 
 **Stack**
 
-`Terraform` `GCP` `Linux`
+`Terraform` `AWS` `Jenkins` `Docker` `Linux`
 
 [View lab repository →](https://github.com/GuidoAnd/DevOps-Integration-Proyect)
 
